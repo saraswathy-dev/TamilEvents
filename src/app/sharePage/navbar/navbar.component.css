@@ -1,0 +1,11 @@
+nav{
+    background-color: rgb(242, 238, 238);
+    
+}
+a{
+    color: rgb(21, 21, 21);
+    font-weight: bolder;
+}
+a:hover{
+    color:green;
+}

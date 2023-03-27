@@ -1,0 +1,22 @@
+.loginForm{
+    margin-top:200px;
+    margin-bottom: 100px;
+}
+.card{
+    margin-top: 100px;
+    border: none;
+    width:500px;
+    padding: 40px;
+    position: absolute;
+    top:40%;
+    left:40%;
+    transform: translate(-50%,-50%);
+    background: rgb(84, 84, 85);
+    background: linear-gradient(90%,rgb(74, 41, 112)0%,hsla(260, 29%, 36%, 1)100%);
+}
+.text-centered{
+    color:white
+}
+.card label{
+    color:white
+}
